@@ -1,4 +1,5 @@
 # C-Sharp-Live-Project
+<h2>Introduction</p>
 <p>I have participated in a live project with other students at the Tech Academy for the past two weeks. We added onto an ongoing MVC and .NET web application that was made for a theatre company. My tasks during these two weeks have been to create a section for the website specifically for blog posts where authors can write and post their own content. I worked on several backend and frontend stories related to this model and gained a lot of experience working with a development team to make the website look and function well.<p>
 <p>Below I have some descriptions of the backend and frontend stories I worked on during this project, as well as links to images of the code.</p>
 <h2>Back End Stories</h2>
