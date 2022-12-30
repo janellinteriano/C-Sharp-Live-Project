@@ -1,6 +1,6 @@
 # C-Sharp-Live-Project
 <h2>Introduction</h2>
-<p>I have participated in a live project with other students at the Tech Academy for the past two weeks. We added onto an ongoing MVC and .NET web application that was made for a theatre company. My tasks during these two weeks have been to create a section for the website specifically for blog posts where authors can write and post their own content. I worked on several backend and frontend stories related to this model and gained a lot of experience working with a development team to make the website look and function well.<p>
+<p>I have participated in a live project with other students at the Tech Academy for the past two weeks. We added onto an ongoing MVC and .NET web application that had a theatre theme. My tasks during these two weeks have been to create a section for the website specifically for blog posts where authors can write and post their own content. I worked on several backend and frontend stories related to this model and gained a lot of experience working with a development team to make the website look and function well.<p>
 <p>Below I have some descriptions of the backend and frontend stories I worked on during this project, as well as links to images of the code.</p>
 <h2>Back End Stories</h2>
 <li>Creating the Model</li>
@@ -15,7 +15,7 @@
 <p>Details Page: (https://user-images.githubusercontent.com/111891542/210116131-294e8844-4db0-4417-9f15-82d03d3ee836.png)</p>
 <p>Delete Page: (https://user-images.githubusercontent.com/111891542/210116178-38a63123-a5ae-490b-8b55-404f83bdc6b6.png)</p>
 <h2>Front End Stories</h2>
-<p>After creating these pages, I mostly had frontend tasks to work on to make the pages a certain style that the company requested. I had a set number of colors to use and images of what type of look they wanted for certain pages like the "create" form for blog posts.</p>
+<p>After creating these pages, I mostly had frontend tasks to work on to make the pages a certain style that was requested. I had a set number of colors to use and images of what type of look was needed for certain pages like the "create" form for blog posts.</p>
 <li>Styling Index Page</li>
 <li>Styling Create and Edit Pages</li>
 <h2>Styling Index Page</h2>
