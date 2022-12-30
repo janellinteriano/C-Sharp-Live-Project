@@ -20,10 +20,10 @@
 <li>Styling Create and Edit Pages</li>
 <h2>Styling Index Page</h2>
 <p>This story allowed me to style an index page for all of the blogposts in the database. I was asked to add a placeholder image for each post until that function would be added. I styled the page using Bootstrap and CSS to give each post their own container with the image on the left side and the BlogPost properties on the right side. The color scheme is also cordinated from the selection I was given.</p>
-<p>Index Page: https://user-images.githubusercontent.com/111891542/210116899-212c7c82-b814-48a3-8cfd-93b8a02ec732.png)</p>
+<p>Index Page: (https://user-images.githubusercontent.com/111891542/210118126-039ff53a-f87c-4919-8f44-7a560fd9521a.png)</p>
 <h2>Styling Create And Edit Pages</h2>
 <p>Then, I styled both the create and edit pages to look the same. They are both in a form format where the user can either create a new post or edit the details of a post from the index page. I added slight effects (hover, subtle color changes) for the buttons and made each textbox border change color when clicked on.</p>
-<p>Create Page: (https://user-images.githubusercontent.com/111891542/210117094-84b19e99-1a9a-441a-a30c-3e3b8dde0281.png)</p>
-<p>Edit Page: (https://user-images.githubusercontent.com/111891542/210117116-c1532f36-c002-4426-9e87-acfc145861a4.png)</p>
+<p>Create Page: (https://user-images.githubusercontent.com/111891542/210118144-a80391b5-f87c-4004-873c-6cec5a925a78.png)</p>
+<p>Edit Page: (https://user-images.githubusercontent.com/111891542/210118159-6448613d-7e68-45be-86dc-3dc302202b34.png)</p>
 <h2>Other Skills Learned</h2>
 <li>Another important topic that I gained experience in was the Agile Framework. Our team of students had daily standup meeting to discuss what we worked on last, currently, and if we had any roadblocks we needed help with. Not only did the daily meetings help us form connections, but we were able to have more productivity because we could set time aside to collaborate ideas and help one another if we needed. This definitely helped me to practice teamwork skills that are super valuable to the workforce! We also had code retrospectives on Fridays to look back on the week and discuss any topics we felt were great or not so great. Overall, this Live Project gave me some valuable experience and I was able to grow my technical and soft skills as a software developer.
